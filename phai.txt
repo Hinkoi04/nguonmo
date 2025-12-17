@@ -1,1 +1,2 @@
 phai lam viec 1
+phai lam viec 2
